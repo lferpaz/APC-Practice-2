@@ -1,5 +1,5 @@
 # Grupo 608
-Proyecto de ApC Practica 2
+Proyecto de APC Practica 2
 
 # Integrantes
 * **Miguel del Arco** - 1566698 - [migueldemollet](https://github.com/migueldemollet)
